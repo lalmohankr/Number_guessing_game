@@ -11,12 +11,10 @@ The Number Guessing Game is a fun interactive program where users can guess a nu
 4. The program provides feedback to guide the player until the correct number is guessed.
 
 # Usage
-Run the program:
-bash
-Copy code
-python Number_guessing_game.py
-Follow the prompts to enter your name and the desired range limit.
-Start guessing the number within the range until you find the correct answer!
+1. Run the program:
+'''python Number_guessing_game.py'''
+2. Follow the prompts to enter your name and the desired range limit.
+3. Start guessing the number within the range until you find the correct answer!
 
 # Features
 1. User-friendly prompts and feedback.
